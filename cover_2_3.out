@@ -1,0 +1,14 @@
+mode: atomic
+diff-cover-test/main.go:5.13,7.2 1 0
+diff-cover-test/main.go:9.19,10.11 1 2
+diff-cover-test/main.go:11.9,12.21 1 0
+diff-cover-test/main.go:13.9,14.21 1 1
+diff-cover-test/main.go:15.9,16.21 1 1
+diff-cover-test/main.go:17.9,18.21 1 0
+diff-cover-test/main.go:19.9,20.21 1 0
+diff-cover-test/other_pkg/print.go:5.19,6.11 1 2
+diff-cover-test/other_pkg/print.go:7.9,8.17 1 0
+diff-cover-test/other_pkg/print.go:9.9,10.17 1 1
+diff-cover-test/other_pkg/print.go:11.9,12.17 1 1
+diff-cover-test/other_pkg/print.go:13.9,14.17 1 0
+diff-cover-test/other_pkg/print.go:15.9,16.17 1 0
